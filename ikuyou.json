@@ -2,78 +2,48 @@
   "sites": [
     {
       "key": "liangzi",
-      "name": "量子资源",
+      "name": "量子",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片"
-      ]
+      "filterable": 1
     },
     {
       "key": "maotai",
-      "name": "茅台资源",
+      "name": "茅台",
       "type": 1,
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺片",
-        "动漫"
-      ]
+      "filterable": 1
     },
     {
       "key": "douban",
-      "name": "豆瓣资源",
+      "name": "豆瓣",
       "type": 1,
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺片",
-        "动漫"
-      ]
+      "filterable": 1
     },
     {
       "key": "hongniu",
-      "name": "红牛资源",
+      "name": "红牛",
       "type": 0,
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫"
-      ]
+      "filterable": 1
     },
     {
       "key": "guangsu",
-      "name": "光速资源",
+      "name": "光速",
       "type": 0,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影",
-        "电视剧",
-        "综艺",
-        "动漫"
-      ]
+      "filterable": 1
     }
   ]
 }
