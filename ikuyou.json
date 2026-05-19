@@ -53,12 +53,69 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+	{
+	  "key": "*lajiao",
+      "name": "辣椒",
+      "type": 1,
+      "api": "https://apilj.com/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1
+      "filterable": 1	  
+    },
+    {
+      "key": "*dadi",
+      "name": "大地",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1
+      "filterable": 1		  
+    },	
+    {
+      "key": "*lebo",
+      "name": "乐播",
+      "type": 0,
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
+      "searchable": 1,
+      "quickSearch": 1
+      "filterable": 1		  
+    },	
+	{
+      "key": "ckpian",
+      "name": "CK片",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
+    {
+	  "key":"*shayu",
+	  "name":"鲨鱼",
+	  "type":1,
+	  "api":"https://shayuapi.com/api.php/provide/vod/",
+	  "searchable":1,
+	  "quickSearch":1
+      "filterable": 1	
+	},	
+    {
+	  "key": "madou",
+      "name": "麻豆",
+      "type": 1,
+      "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },	
+    {
+      "key": "senlin",
+      "name": "森林",
+      "type": 1,
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+      "searchable": 1
+      "quickSearch": 1,
+      "filterable": 1	  
+    }	
   ]
 }
-
-   
-
-
-
-
